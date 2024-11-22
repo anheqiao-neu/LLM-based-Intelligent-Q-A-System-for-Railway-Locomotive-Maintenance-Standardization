@@ -1,0 +1,6 @@
+{"prompt": "A节机械间感烟报警", "response": "请提供故障模块名称", "history": []}
+{"prompt": "主机软件", "response": "重启安全装备的视频安防系统中A节主机软件", "history": [["A节机械间感烟报警", "请提供故障模块名称"]]}
+{"prompt": "A节不录像", "response": "请提供故障模块名称", "history": []}
+{"prompt": "主机硬件", "response": "重启安全装备的视频安防系统中A节主机", "history": [["A节不录像", "请提供故障模块名称"]]}
+{"prompt": "A节车钩花屏", "response": "请提供故障模块名称", "history": []}
+{"prompt": "主机硬件", "response": "拔插安全装备的视频安防系统中A节主机线路", "history": [["A节车钩花屏", "请提供故障模块名称"]]}
