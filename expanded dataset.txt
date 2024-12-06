@@ -1,0 +1,30 @@
+{"content": "B节硬盘不录像厂家修复硬盘后正常", "result_list": [], "prompt": "部件名称"}
+{"content": "B节硬盘不录像厂家修复硬盘后正常", "result_list": [{"text": "硬盘", "start": 2, "end": 4}], "prompt": "一级配件名称"}
+{"content": "B节硬盘不录像厂家修复硬盘后正常", "result_list": [{"text": "B", "start": 0, "end": 1}], "prompt": "部件一级编号"}
+{"content": "B节硬盘不录像厂家修复硬盘后正常", "result_list": [], "prompt": "部件二级名称"}
+{"content": "B节硬盘不录像厂家修复硬盘后正常", "result_list": [], "prompt": "配件编号"}
+{"content": "B节硬盘不录像厂家修复硬盘后正常", "result_list": [{"text": "修复", "start": 9, "end": 11}], "prompt": "故障标签"}
+{"content": "A节视频卡死 B节左按钮作用不良A节重启主机后正常  B节联系厂家更换后正常", "result_list": [], "prompt": "部件名称"}
+{"content": "A节视频卡死 B节左按钮作用不良A节重启主机后正常  B节联系厂家更换后正常", "result_list": [], "prompt": "一级配件名称"}
+{"content": "A节视频卡死 B节左按钮作用不良A节重启主机后正常  B节联系厂家更换后正常", "result_list": [], "prompt": "部件一级编号"}
+{"content": "A节视频卡死 B节左按钮作用不良A节重启主机后正常  B节联系厂家更换后正常", "result_list": [], "prompt": "部件二级名称"}
+{"content": "A节视频卡死 B节左按钮作用不良A节重启主机后正常  B节联系厂家更换后正常", "result_list": [], "prompt": "配件编号"}
+{"content": "A节视频卡死 B节左按钮作用不良A节重启主机后正常  B节联系厂家更换后正常", "result_list": [{"text": "事后测试正常-更换", "start": 0, "end": 38}], "prompt": "故障标签"}
+{"content": "A节左后视闪屏厂家反馈航插腐蚀无料待修", "result_list": [{"text": "视频安防系统", "start": 4, "end": 5}], "prompt": "部件名称"}
+{"content": "A节左后视闪屏厂家反馈航插腐蚀无料待修", "result_list": [{"text": "AB节通讯", "start": 0, "end": 2}], "prompt": "一级配件名称"}
+{"content": "A节左后视闪屏厂家反馈航插腐蚀无料待修", "result_list": [{"text": "A", "start": 0, "end": 1}], "prompt": "部件一级编号"}
+{"content": "A节左后视闪屏厂家反馈航插腐蚀无料待修", "result_list": [], "prompt": "部件二级名称"}
+{"content": "A节左后视闪屏厂家反馈航插腐蚀无料待修", "result_list": [], "prompt": "配件编号"}
+{"content": "A节左后视闪屏厂家反馈航插腐蚀无料待修", "result_list": [{"text": "无料", "start": 15, "end": 17}], "prompt": "故障标签"}
+{"content": "A节左后视黑屏A节机械间2温感报警联系厂家已处理，吹擦复位后正常", "result_list": [], "prompt": "部件名称"}
+{"content": "A节左后视黑屏A节机械间2温感报警联系厂家已处理，吹擦复位后正常", "result_list": [], "prompt": "一级配件名称"}
+{"content": "A节左后视黑屏A节机械间2温感报警联系厂家已处理，吹擦复位后正常", "result_list": [{"text": "A", "start": 0, "end": 1}], "prompt": "部件一级编号"}
+{"content": "A节左后视黑屏A节机械间2温感报警联系厂家已处理，吹擦复位后正常", "result_list": [], "prompt": "部件二级名称"}
+{"content": "A节左后视黑屏A节机械间2温感报警联系厂家已处理，吹擦复位后正常", "result_list": [], "prompt": "配件编号"}
+{"content": "A节左后视黑屏A节机械间2温感报警联系厂家已处理，吹擦复位后正常", "result_list": [{"text": "修复", "start": 0, "end": 32}], "prompt": "故障标签"}
+{"content": "A节机械间感烟报警擦拭重启后正常", "result_list": [], "prompt": "部件名称"}
+{"content": "A节机械间感烟报警擦拭重启后正常", "result_list": [{"text": "主机软件", "start": 2, "end": 3}], "prompt": "一级配件名称"}
+{"content": "A节机械间感烟报警擦拭重启后正常", "result_list": [{"text": "A", "start": 0, "end": 1}], "prompt": "部件一级编号"}
+{"content": "A节机械间感烟报警擦拭重启后正常", "result_list": [], "prompt": "部件二级名称"}
+{"content": "A节机械间感烟报警擦拭重启后正常", "result_list": [], "prompt": "配件编号"}
+{"content": "A节机械间感烟报警擦拭重启后正常", "result_list": [{"text": "事后测试正常", "start": 0, "end": 16}], "prompt": "故障标签"}
